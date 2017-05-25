@@ -3,9 +3,8 @@ With this corpus, we compose a list of predefined patterns for explaining argume
 
 The corpus is created using brat and the annotation is in the brat standoff format (see http://brat.nlplab.org/standoff.html). The configuration files for viewing with brat is also included in corpus.
 
-The annotated data is found in the following files:
-
 # Data
+The annotated data may be found in the following folders:
   - dev: 20 annotated arg-microtext corpus texts used for development
   - test: 67 annotated arg-microtext corpus texts
 
