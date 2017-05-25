@@ -1,0 +1,7 @@
+Should the weight of the BA thesis in the final grade be increased?
+
+a1: The bachelor thesis reflects both the content and the methods of the topics covered during a degree programme.
+a2: But one can make occasional mistakes in the thesis.
+a3: If this carries more weight, many good individual assignments done during the course of study may be obscured.
+a4: A good grade for the thesis also significantly depends on the supervision of a dedicated teacher.
+a5: Due to the many random factors the bachelor thesis should not play a bigger role.

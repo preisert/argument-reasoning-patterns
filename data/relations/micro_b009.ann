@@ -1,0 +1,7 @@
+T1	A_2 1142 1145	_Y_
+T2	A_1 1091 1094	_X_
+T3	A_OTHER 3334 3339	Other
+T4	B_OTHER 3334 3339	Other
+T5	B_OTHER 5084 5089	Other
+#1	AnnotatorNotes T4	OTHER because c2 is OTHER
+#2	AnnotatorNotes T5	Reverse relation? a4 will suppress a1

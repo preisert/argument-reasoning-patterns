@@ -1,0 +1,6 @@
+Should public health insurance cover treatments in complementary and alternative medicine?
+
+a1: Health insurance companies should naturally cover alternative medical treatments.
+a2: Not all practices and approaches that are lumped together under this term may have been proven in clinical trials,
+a3: yet it's precisely their positive effect when accompanying conventional 'western' medical therapies that's been demonstrated as beneficial.
+a4: Besides many general practitioners offer such counselling and treatments in parallel anyway - and who would want to question their broad expertise?

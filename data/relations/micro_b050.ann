@@ -1,0 +1,10 @@
+T1	A_OTHER 1743 1748	Other
+T2	A_OTHER 3493 3498	Other
+T3	A_OTHER 5243 5248	Other
+T4	B_OTHER 5243 5248	Other
+T5	A_2 5695 5698	_Y_
+T6	A_1 5644 5647	_X_
+T7	B_5 5695 5698	_Y_
+T8	B_4 5644 5647	_X_
+#1	AnnotatorNotes T1	causality
+#2	AnnotatorNotes T4	a3 promotes a5

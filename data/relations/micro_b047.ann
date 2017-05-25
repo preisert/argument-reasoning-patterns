@@ -1,0 +1,9 @@
+T1	A_2 619 622	_Y_
+T2	A_1 567 570	_X_
+T3	A_OTHER 3335 3340	Other
+T4	B_OTHER 3335 3340	Other
+T5	A_3 3437 3440	_Y_
+T6	A_1 3386 3389	_X_
+T7	B_3 3437 3440	_Y_
+T8	B_1 3386 3389	_X_
+#1	AnnotatorNotes T4	cannot annotate 'side effects' and 'medical advice' and keep the link

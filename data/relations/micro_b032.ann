@@ -1,0 +1,6 @@
+T1	A_2 450 453	_Y_
+T2	A_1 398 401	_X_
+T3	B_1 450 453	_Y_
+T4	B_2 398 401	_X_
+T5	A_OTHER 5243 5248	Other
+#1	AnnotatorNotes T5	how to repr Dispose => no fine

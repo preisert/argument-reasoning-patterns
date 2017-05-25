@@ -1,0 +1,21 @@
+T1	A_OTHER 1743 1748	Other
+T2	B_OTHER 1743 1748	Other
+T3	A_OTHER 3493 3498	Other
+T4	B_OTHER 3493 3498	Other
+T5	A_OTHER 5243 5248	Other
+T6	B_OTHER 5243 5248	Other
+T7	A_2 5348 5351	_Y_
+T8	A_1 5296 5299	_X_
+T9	A_OTHER 8743 8748	Other
+T10	B_OTHER 8743 8748	Other
+T11	A_3 8848 8851	_Y_
+T12	A_1 8796 8799	_X_
+T13	A_4 12348 12351	_Y_
+T14	A_1 12296 12299	_X_
+T15	A_OTHER 15756 15761	Other
+T16	B_OTHER 15756 15761	Other
+#1	AnnotatorNotes T2	relation mistake?
+#2	AnnotatorNotes T6	Unsure
+#3	AnnotatorNotes T4	Unsure
+#4	AnnotatorNotes T10	Expansion?
+#5	AnnotatorNotes T16	Meaning = ? Not REB?

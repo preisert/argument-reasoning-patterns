@@ -1,0 +1,7 @@
+Should intelligence services be regulated more tightly by parliament?
+
+a1: Intelligence services should be more closely regulated by parliament,
+a2: for, as the most recent NSA wiretapping scandal has shown, the federal state government is allegedly not always familiar with the scope of operations of its intelligence services.
+a3: Checks could contribute to restricting the so far rather opaque scope of action of individual services.
+a4: Yet it remains questionable whether the actual implementation of such supervision would at the same time lead to a stronger observance of laws,
+a5: as ultimately this decision is in the hands of the respective government leaders.
