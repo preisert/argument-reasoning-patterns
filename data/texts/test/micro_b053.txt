@@ -1,0 +1,8 @@
+Should public health insurance cover treatments in complementary and alternative medicine?
+
+a1: Many people see proven relief of their symptoms and complaints by complementary medicine.
+a2: However there is no substantiated data that this healing isn't simply due to the placebo effect.
+a3: Besides many practices in this field are not regulated professions,
+a4: which means that quacks and phonies can practice these occupations unknown to the patients.
+a5: That's why the statutory health insurance companies should not cover such treatments.
+a6: It would be conceivable to invest more into the training and control of this occupation sector on the part of the state.

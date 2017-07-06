@@ -1,0 +1,12 @@
+T1	A_2 798 801	_Y_
+T2	A_1 748 751	_X_
+T3	B_3 798 801	_Y_
+T4	B_1 748 751	_X_
+T5	A_3 2896 2899	_Y_
+T6	A_1 2846 2849	_X_
+T7	B_2 2896 2899	_Y_
+T8	B_1 2846 2849	_X_
+T9	A_OTHER 5243 5248	Other
+T10	A_OTHER 6834 6839	Other
+#1	AnnotatorNotes T9	not happens decided is NOT SUP might be okay
+#2	AnnotatorNotes T10	c4's other

@@ -1,0 +1,9 @@
+T1	A_OTHER 1743 1748	Other
+T2	B_OTHER 1743 1748	Other
+T3	A_2 4646 4649	_Y_
+T4	A_1 4596 4599	_X_
+T5	B_3 4646 4649	_Y_
+T6	B_1 4596 4599	_X_
+T7	B_OTHER 6993 6998	Other
+#1	AnnotatorNotes T2	Definition
+#2	AnnotatorNotes T7	The supervision of the teacher will not be effected by X happening/not happening

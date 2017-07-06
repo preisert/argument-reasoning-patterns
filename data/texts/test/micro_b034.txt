@@ -1,0 +1,7 @@
+Should all universities in Germany charge tuition fees?
+
+a1: Tuition fees should not generally be charged by universities.
+a2: Universities are for all citizens, independent of their finances.
+a3: Education and training are fundamental rights which the state, the society must provide.
+a4: If a university lacks the funds, sponsors must be found.
+a5: Unfortunately this can lead to disagreeable dependencies in some cases.

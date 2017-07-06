@@ -1,0 +1,45 @@
+c2: a1 is supported by a2
+S01: a1 states that _X_ is good, and a2 states that _X_ is good because _Y_ is good and when _X_ happens (or happened), _Y_ will be (or was) PROMOTED (or NOT_SUPPRESSED)
+S02: a1 states that _X_ is good, and a2 states that _X_ is good because _Y_ is good and when _X_ doesn't happen (or didn't happen), _Y_ will be (or was) SUPPRESSED (or NOT_PROMOTED)
+S03: a1 states that _X_ is good, and a2 states that _X_ is good because _Y_ is bad and when _X_ happens (or happened), _Y_ will be (or was) SUPPRESSED (or NOT_PROMOTED)
+S04: a1 states that _X_ is good, and a2 states that _X_ is good because _Y_ is bad and when _X_ doesn't happen (or didn't happen), _Y_ will be (or was) PROMOTED (or NOT_SUPPRESSED)
+S05: a1 states that _X_ is bad, and a2 states that _X_ is bad because _Y_ is good and when _X_ happens (or happened), _Y_ will be (or was) SUPPRESSED (or NOT_PROMOTED)
+S06: a1 states that _X_ is bad, and a2 states that _X_ is bad because _Y_ is good and when _X_ doesn't happen (or didn't happen), _Y_ will be (or was) PROMOTED (or NOT_SUPPRESSED)
+S07: a1 states that _X_ is bad, and a2 states that _X_ is bad because _Y_ is bad and when _X_ happens (or happened), _Y_ will be (or was) PROMOTED (or NOT_SUPPRESSED)
+S08: a1 states that _X_ is bad, and a2 states that _X_ is bad because _Y_ is bad and when _X_ doesn't happen (or didn't happen), _Y_ will be (or was) SUPPRESSED (or NOT_PROMOTED)
+S09: a1 states that _X_ is good, and a2 states that _X_ is good because _Y_ is good and is ANALOGOUS
+S10: a1 states that _X_ is bad, and a2 states that _X_ is bad because _Y_ is bad and is ANALOGOUS
+S11: a1 assumes a PRESUPPOSITION, and a2 emphasizes it
+S12: a1 states a PROPOSITION _X_, and a2 restates it with _Y_
+S13: Other
+
+c3: a1 is supported by a3
+S01: a1 states that _X_ is good, and a3 states that _X_ is good because _Y_ is good and when _X_ happens (or happened), _Y_ will be (or was) PROMOTED (or NOT_SUPPRESSED)
+S02: a1 states that _X_ is good, and a3 states that _X_ is good because _Y_ is good and when _X_ doesn't happen (or didn't happen), _Y_ will be (or was) SUPPRESSED (or NOT_PROMOTED)
+S03: a1 states that _X_ is good, and a3 states that _X_ is good because _Y_ is bad and when _X_ happens (or happened), _Y_ will be (or was) SUPPRESSED (or NOT_PROMOTED)
+S04: a1 states that _X_ is good, and a3 states that _X_ is good because _Y_ is bad and when _X_ doesn't happen (or didn't happen), _Y_ will be (or was) PROMOTED (or NOT_SUPPRESSED)
+S05: a1 states that _X_ is bad, and a3 states that _X_ is bad because _Y_ is good and when _X_ happens (or happened), _Y_ will be (or was) SUPPRESSED (or NOT_PROMOTED)
+S06: a1 states that _X_ is bad, and a3 states that _X_ is bad because _Y_ is good and when _X_ doesn't happen (or didn't happen), _Y_ will be (or was) PROMOTED (or NOT_SUPPRESSED)
+S07: a1 states that _X_ is bad, and a3 states that _X_ is bad because _Y_ is bad and when _X_ happens (or happened), _Y_ will be (or was) PROMOTED (or NOT_SUPPRESSED)
+S08: a1 states that _X_ is bad, and a3 states that _X_ is bad because _Y_ is bad and when _X_ doesn't happen (or didn't happen), _Y_ will be (or was) SUPPRESSED (or NOT_PROMOTED)
+S09: a1 states that _X_ is good, and a3 states that _X_ is good because _Y_ is good and is ANALOGOUS
+S10: a1 states that _X_ is bad, and a3 states that _X_ is bad because _Y_ is bad and is ANALOGOUS
+S11: a1 assumes a PRESUPPOSITION, and a3 emphasizes it
+S12: a1 states a PROPOSITION _X_, and a3 restates it with _Y_
+S13: Other
+
+c4: a1 is supported by a4
+S01: a1 states that _X_ is good, and a4 states that _X_ is good because _Y_ is good and when _X_ happens (or happened), _Y_ will be (or was) PROMOTED (or NOT_SUPPRESSED)
+S02: a1 states that _X_ is good, and a4 states that _X_ is good because _Y_ is good and when _X_ doesn't happen (or didn't happen), _Y_ will be (or was) SUPPRESSED (or NOT_PROMOTED)
+S03: a1 states that _X_ is good, and a4 states that _X_ is good because _Y_ is bad and when _X_ happens (or happened), _Y_ will be (or was) SUPPRESSED (or NOT_PROMOTED)
+S04: a1 states that _X_ is good, and a4 states that _X_ is good because _Y_ is bad and when _X_ doesn't happen (or didn't happen), _Y_ will be (or was) PROMOTED (or NOT_SUPPRESSED)
+S05: a1 states that _X_ is bad, and a4 states that _X_ is bad because _Y_ is good and when _X_ happens (or happened), _Y_ will be (or was) SUPPRESSED (or NOT_PROMOTED)
+S06: a1 states that _X_ is bad, and a4 states that _X_ is bad because _Y_ is good and when _X_ doesn't happen (or didn't happen), _Y_ will be (or was) PROMOTED (or NOT_SUPPRESSED)
+S07: a1 states that _X_ is bad, and a4 states that _X_ is bad because _Y_ is bad and when _X_ happens (or happened), _Y_ will be (or was) PROMOTED (or NOT_SUPPRESSED)
+S08: a1 states that _X_ is bad, and a4 states that _X_ is bad because _Y_ is bad and when _X_ doesn't happen (or didn't happen), _Y_ will be (or was) SUPPRESSED (or NOT_PROMOTED)
+S09: a1 states that _X_ is good, and a4 states that _X_ is good because _Y_ is good and is ANALOGOUS
+S10: a1 states that _X_ is bad, and a4 states that _X_ is bad because _Y_ is bad and is ANALOGOUS
+S11: a1 assumes a PRESUPPOSITION, and a4 emphasizes it
+S12: a1 states a PROPOSITION _X_, and a4 restates it with _Y_
+S13: Other
+
