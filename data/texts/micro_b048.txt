@@ -1,7 +1,0 @@
-Should all universities in Germany charge tuition fees?
-
-a1: Every German citizen has a right to education.
-a2: Quality at universities has its price,
-a3: which is why students also ought to be involved in this cost factor.
-a4: But education must not be a question of money in a wealthy society such as Germany.
-a5: Therefore universities should not charge tuition fees in Germany.

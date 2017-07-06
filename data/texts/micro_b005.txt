@@ -1,7 +1,0 @@
-Should intelligence services be regulated more tightly by parliament?
-
-a1: Intelligence services must urgently be regulated more tightly by parliament;
-a2: this should be clear to everyone after the disclosures of Edward Snowden.
-a3: Granted, those concern primarily the British and American intelligence services,
-a4: but the German services evidently do collaborate with them closely.
-a5: Their tools, data and expertise have been used to keep us under surveillance for a long time.

@@ -1,7 +1,0 @@
-Should there be a cap on rent increases for a change of tenant?
-
-a1: Rent prices should be limited by a cap when there's a change of tenant.
-a2: Landlords may want to earn as much as possible,
-a3: and many, consistent with market principles, are prepared to pay higher rents,
-a4: but that people with the same income suddenly must pay more and can't live in the same flat anymore seems implausible.
-a5: Gentrification destroys entire districts and their culture.

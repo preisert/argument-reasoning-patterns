@@ -1,7 +1,0 @@
-Should public health insurance cover treatments in complementary and alternative medicine?
-
-a1: Alternative treatments should be subsidized in the same way as conventional treatments,
-a2: since both methods can lead to the prevention, mitigation or cure of an illness.
-a3: Besides it should be in the interest of the health insurers to recognize alternative medicine as treatment,
-a4: since there is a chance of recovery.
-a5: It doesn't matter after all that those who administer the treatment don't have 'doctor status'.

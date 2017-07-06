@@ -1,7 +1,0 @@
-Should public health insurance cover treatments in complementary and alternative medicine?
-
-a1: Health insurance companies should not cover treatment in complementary medicine
-a2: unless the promised effect and its medical benefit have been concretely proven.
-a3: Yet this very proof is lacking in most cases.
-a4: Patients do often report relief of their complaints after such treatments.
-a5: But as long as it is unclear as to how this works, the funds should rather be spent on therapies where one knows with certainty.

@@ -1,8 +1,0 @@
-T1	A_2 95 98	_Y_
-T2	A_1 44 47	_X_
-T3	A_OTHER 3334 3339	Other
-T4	B_OTHER 3334 3339	Other
-T5	A_OTHER 6834 6839	Other
-T6	B_OTHER 6834 6839	Other
-#1	AnnotatorNotes T4	Other Undercut => Other
-#2	AnnotatorNotes T6	Nothing promoted or suppressed

@@ -1,7 +1,0 @@
-Should the EU exert influence on the political events in Ukraine?
-
-a1: Despite the severe clashes in Kiev, which at times have threatened to escalate,
-a2: the EU should not intervene in local politics.
-a3: Although Ukraine is a European country,
-a4: and the Ukrainian opposition is primarily interested in installing a robust democracy,
-a5: possible supporters face a considerably stronger opponent in the intervention of Russia in local politics.
