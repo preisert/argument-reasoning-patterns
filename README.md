@@ -9,7 +9,7 @@ The annotated data may be found in the following folders:
   - test: 69 annotated arg-microtext corpus texts
 
 # Corpus Template Distribution
-<img alt="statistics.png" src="https://cl.ecei.tohoku.ac.jp/~preisert/statistics.png">
+<img alt="statistics.png" src="https://www.cl.ecei.tohoku.ac.jp/~preisert/statistics.png">
 
 # Notes
 If you use this work or would like to cite it, please cite the following:
