@@ -8,9 +8,6 @@ The annotated data may be found in the following folders:
   - dev: 20 annotated arg-microtext corpus texts used for development
   - test: 69 annotated arg-microtext corpus texts
 
-# Corpus Template Distribution
-![Distribution of templates](http://www.cl.ecei.tohoku.ac.jp/~preisert/statistics.png)
-
 # Notes
 If you use this work or would like to cite it, please cite the following:
 - Paul Reisert, Naoya Inoue, Naoaki Okazaki, Kentaro Inui. Deep Argumentative Structure Analysis as an Explanation to Argumentative Relations. Proceedings of The 23rd Annual Meeting of the Association for Natural Language Processing, pp.38-41, March 2017.
