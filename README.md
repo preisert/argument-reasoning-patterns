@@ -1,4 +1,4 @@
-# Argument Reasoning Pattern Corpus
+# Argument Reasoning Pattern (ARP) Corpus
 With this corpus, we compose a list of predefined patterns for explaining argumentative relations that cover a majority of explanations. Our corpus incorporates a deep structure annotation on top of the arg-microtext corpus (ref: https://github.com/peldszus/arg-microtexts ) for argumentative relations that achieves good annotator agreement.
 
 The corpus is created using brat, and the annotation is in the brat standoff format (see http://brat.nlplab.org/standoff.html). The configuration files for viewing with brat is also included in the corpus.
